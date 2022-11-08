@@ -3,7 +3,7 @@ const elts = {
 	text2: document.getElementById("text2"),
 };
 
-const texts = ["Đan", "Love", "Thương", "3000"];
+const texts = ["Làm", "Người", "Yêu", "Anh", "Nhé", "Baby", "I" "Love", "You", "3000", "❤️❤️❤️"];
 
 const morphTime = 1;
 const cooldownTime = 0.25;
@@ -464,18 +464,18 @@ var ParticlePool = (function () {
 	}, 10);
 
 	// Redirect to Messenger
-	setTimeout(function () {
-		window.open(
-			"https://www.facebook.com/messages/t/100014229402317",
-			"_blank"
-		);
-	}, 10000);
+// 	setTimeout(function () {
+// 		window.open(
+// 			"https://www.facebook.com/messages/t/100014229402317",
+// 			"_blank"
+// 		);
+// 	}, 10000);
 
 	// Open to Messenger
-	setTimeout(function () {
-		window.location.href =
-			"https://www.facebook.com/messages/t/100014229402317";
-	}, 30000);
+// 	setTimeout(function () {
+// 		window.location.href =
+// 			"https://www.facebook.com/messages/t/100014229402317";
+// 	}, 30000);
 
 	// End
 })(document.getElementById("pinkboard"));
