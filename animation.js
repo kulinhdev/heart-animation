@@ -3,7 +3,7 @@ const elts = {
 	text2: document.getElementById("text2"),
 };
 
-const texts = ["Làm", "Người", "Yêu", "Anh", "Nhé", "Baby", "I", "Love", "You", "3000", "❤️❤️❤️"];
+const texts = ["Linh", "Yêu", "Em", "3000", "❤️❤️❤️"];
 
 const morphTime = 1;
 const cooldownTime = 0.25;
